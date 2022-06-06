@@ -1,0 +1,11 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    src: url(../fonts/roboto/Roboto-Black.ttf),format(ttf);
+    color: black;
+    background-color: aliceblue;
+}
+
+h1{
+    font-size: 68px;
+    color: black;
+}
