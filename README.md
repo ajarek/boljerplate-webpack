@@ -5,3 +5,10 @@
 ```
 npm install
 ```
+```
+npm run build
+```
+### launching the development server
+```
+npm start
+```
